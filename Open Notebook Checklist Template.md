@@ -15,3 +15,5 @@ _use this template to remind yourself what you've accomplished this week. You co
 - quick written summary of what **isn't** working, and ideas why that might be
   - where have you gone for help?
   - websites etc that **might** be helpful but you haven't had a chance to look at yet.
+  
+(Handy Resource)

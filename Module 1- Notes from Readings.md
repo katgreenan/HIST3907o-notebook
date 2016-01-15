@@ -28,4 +28,3 @@
 	- This confuses me a little... 
 		- It doesn't seem like to would quite out as a replacement for like... Wikipedia, but as a research tool, like Github, basically?
 			- It's like fancy, academic tumblr
- 
