@@ -22,4 +22,4 @@ and the repository exists.`
 Proceed to grumble, and then decide to check my Github account online to see if I can figure anything out... Turns out, my first mistake, where I named everything "USERNAME" instead of "add-USERNAME" was still haunting me, while this change was showing in my terminal, the change wasn't reflected on my actual repo. 
 Solution? Delete my forked copy of the repository, re-fork... basically re-do the entire exercise plus the one before it - and hey, presto! There we go!
 
-**COMPLETED**
+**Complete**
