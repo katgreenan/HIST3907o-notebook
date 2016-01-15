@@ -1,4 +1,4 @@
-###" SSHRC's Research Data Archiving Policy and Historians," Ian Milligan
+### "SSHRC's Research Data Archiving Policy and Historians," Ian Milligan
 - Social Sciences and Humanities Research Group
 - Expects research data to be made publicly accessible within 2 years of the completion of said project
 	- Avoids duplication of primary data collection
@@ -25,6 +25,7 @@
 - Federated wiki?
 	- Consensus engine wanted eventually, but not from the beginning
 	- Everyone on one server vs. everyone on their own server
-	- This confuses me a little... 
+	- This confuses me a little...
 		- It doesn't seem like to would quite out as a replacement for like... Wikipedia, but as a research tool, like Github, basically?
 			- It's like fancy, academic tumblr
+ 
